@@ -186,7 +186,7 @@ ModelImporter:
       name: JogJump_ToLeft_2
       takeName: _16_a_U1_M_P_JogJump_ToLeft_R_Fb_p0_No_0_3
       firstFrame: 279
-      lastFrame: 297
+      lastFrame: 300
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -195,7 +195,7 @@ ModelImporter:
       hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
-      loopBlendOrientation: 0
+      loopBlendOrientation: 1
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
