@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{70613E3F-5615-96C9-DC8D-771CA8FF5B17}") = "character moving", "Assembly-CSharp.csproj", "{AA1524DD-CFFA-1133-60D2-9FFF4C398CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1524DD-CFFA-1133-60D2-9FFF4C398CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1524DD-CFFA-1133-60D2-9FFF4C398CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1524DD-CFFA-1133-60D2-9FFF4C398CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1524DD-CFFA-1133-60D2-9FFF4C398CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
