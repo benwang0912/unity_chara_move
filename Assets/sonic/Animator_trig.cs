@@ -21,12 +21,12 @@ public class Animator_trig : MonoBehaviour {
         rb = GetComponent<Rigidbody>();
     }
 
-   /* bool IsGrounded(){
+    /*bool IsGrounded(){
         RaycastHit hit;
         //Debug.DrawRay(transform.position, transform.up * 10f, Color.yellow);
         if (Physics.Raycast(transform.position, -Vector3.up, out hit,0.5f))
         {
-            Debug.Log(Vector3.Distance(transform.position, hit.collider.transform.position));
+            Debug.Log(hit.collider.gameObject.name + Vector3.Distance(transform.position, hit.collider.transform.position));
             if (Vector3.Distance(transform.position, hit.collider.transform.position) <= 0.2f)
                 return true;
         }

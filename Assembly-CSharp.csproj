@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Animator_trig.cs" />
+     <Compile Include="Assets\environment_obj\collideTrigger.cs" />
+     <Compile Include="Assets\sonic\Animator_trig.cs" />
+     <Compile Include="Assets\sonic\jumpOnSpring.cs" />
      <None Include="Assets\Raw Mocap Data\Animations\_CompleteAnimationList.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
